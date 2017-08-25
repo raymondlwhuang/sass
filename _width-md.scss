@@ -1,0 +1,16 @@
+	.width-500-md {
+		width:500px;
+	}
+    .width-130-r-md {
+        float: right;
+        width: calc(100% - 130px);
+    }
+	.flex-320-md {
+		flex-grow: 0;
+		flex-shrink: 0;
+		flex-basis: 320px;
+	}
+	.flex-50pc-md {
+		flex-basis: 50%;
+	}
+	

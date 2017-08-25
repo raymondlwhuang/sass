@@ -1,0 +1,27 @@
+    .wrap-box-md {
+		width: 100%;
+        max-width:$maxWidth;
+    }    
+	.wrap-box-banner-md {
+		width: 100%;
+		margin: 0 auto;
+		height: 90vh;
+		background-image: url(../images/Background_home.jpg);
+		background-size: cover;
+		overflow: hidden;
+	}	
+	.google-play-md {
+		width: 186px;
+		height: 75px;
+	}
+	.app-md {
+		width: 180px;
+		height: 63px;
+	}	
+	.android-md {
+		width: calc(100% - 300px);
+		margin-left: 55px;
+	}
+	.ios-md {
+		width: calc(100% - 300px);
+	}	
